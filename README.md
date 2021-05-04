@@ -1,7 +1,9 @@
 # Face-Generation-Using-GAN-s
 Using Generative Adversarial Networks , Implemented Face Generation 
 
-[Flow of GAN's](flow.png)
+### Flow of GAN's
+
+![Flow of GAN's](flow.png)
 
 
 ### Code : [GANs Face Generators](face_generator_gans.ipynb)
